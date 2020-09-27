@@ -1,0 +1,1 @@
+pos/sample.png 1 0 0 85 133
